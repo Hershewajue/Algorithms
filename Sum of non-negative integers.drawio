@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T21:10:17.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wVwYeWlAJjurZF9BmjQw" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T21:10:55.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zAIa3FQ4HWrNV1kQJ1CT" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1444" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="635" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -81,10 +81,8 @@
         <mxCell id="-2RjMBubcI_NmqtKYA7N-21" value="is input &lt;br&gt;positive?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="260" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-2RjMBubcI_NmqtKYA7N-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-2RjMBubcI_NmqtKYA7N-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-2RjMBubcI_NmqtKYA7N-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-2RjMBubcI_NmqtKYA7N-23" target="-2RjMBubcI_NmqtKYA7N-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-2RjMBubcI_NmqtKYA7N-23" value="Input: int num" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="410" width="100" height="60" as="geometry" />
